@@ -67,7 +67,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/greenpark/2019028_015.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/greenpark/20190928_015.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -86,11 +86,10 @@ body::before {
 <body>
 
 <h1><span class="yellow"><marquee behavior="alternate">2562(2019)/09/28, GreenPark!</marquee></span></h1>
-<div style="background-color:rgb(255,255,255,0.5);">
-
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<div style="background-color:rgb(255,255,255,0.5);">
 <a href="20190928_001.JPG" data-lightbox="abc"><img src="20190928_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_002.JPG" data-lightbox="abc"><img src="20190928_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_003.JPG" data-lightbox="abc"><img src="20190928_003.JPG" alt="サンプル画像" width="900" /></a>
