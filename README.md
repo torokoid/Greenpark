@@ -1,8 +1,7 @@
-# Greenpark
  <html lang="ja">
  <head>
  <meta charset="UTF-8">
- <title>まほろば_2019</title>
+ <title>greenpark_2019</title>
 
 <style type="text/css">
  p {
@@ -89,8 +88,9 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<div style="background-color:rgb(255,255,255,0.5);">
-<a href="20190928_001.JPG" data-lightbox="abc"><img src="20190928_001.JPG" alt="サンプル画像" width="950" /></a>
+<!--
+<div style="background-color:rgb(255,255,255,0.5);">-->
+<a href="20190928_001.JPG" data-lightbox="abc"><img src="20190928_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_002.JPG" data-lightbox="abc"><img src="20190928_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_003.JPG" data-lightbox="abc"><img src="20190928_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_004.JPG" data-lightbox="abc"><img src="20190928_004.JPG" alt="サンプル画像" width="900" /></a>
