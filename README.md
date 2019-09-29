@@ -111,7 +111,9 @@ body::before {
 <a href="20190928_019.JPG" data-lightbox="abc"><img src="20190928_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_020.JPG" data-lightbox="abc"><img src="20190928_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_021.JPG" data-lightbox="abc"><img src="20190928_021.JPG" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20190928_022.JPG" data-lightbox="abc"><img src="20190928_022.JPG" alt="サンプル画像" width="900" /></a>
+-->
 <a href="20190928_023.JPG" data-lightbox="abc"><img src="20190928_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_024.JPG" data-lightbox="abc"><img src="20190928_024.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190928_025.JPG" data-lightbox="abc"><img src="20190928_025.JPG" alt="サンプル画像" width="900" /></a>
